@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "title": "React",
+      "taskDesc": "Hergun duzenli react calis",
+      "id": 1
+    },
+    {
+      "title": " Spor",
+      "taskDesc": "Spora 2 gunder bir kesinlikle git! ",
+      "id": 2
+    },
+    {
+      "title": " Kitap",
+      "taskDesc": " Hergun 30 sayfa kitap oku",
+      "id": 3
+    },
+    {
+      "title": " Ridvan",
+      "taskDesc": " Merhabalar benim adim ridvan soy adim korurer",
+      "id": 4
+    }
+  ]
+}
